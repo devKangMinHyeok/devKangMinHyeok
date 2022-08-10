@@ -20,5 +20,19 @@
 
 **GitHub.** [https://github.com/rkdalsgur032](https://github.com/rkdalsgur032)
 
+## 📞 Contact
+**Email.** rkdalsgur032@unist.ac.kr 
 
+## 💻 Personal Project
+
+### npm
+
+[use-upbit-api](https://www.npmjs.com/package/use-upbit-api) 
+
+![download](https://img.shields.io/npm/dt/use-upbit-api?style=plastic)
+![TOTALEXAMPLE](https://user-images.githubusercontent.com/44657722/183570075-cb54905c-a57c-44a6-96c3-3d66dccef054.gif)
+
+
+
+## Github Info
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=devKangMinHyeok.devKangMinHyeok)
