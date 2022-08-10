@@ -10,9 +10,13 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
-
-
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## 📝 Channel
+**Brunch.** [https://brunch.co.kr/@rkdalsgur032](https://brunch.co.kr/@rkdalsgur032)
+**Dev Blog.** [https://velog.io/@kangdev](https://velog.io/@kangdev)
+**GitHub.** [https://github.com/rkdalsgur032](https://github.com/rkdalsgur032)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=devKangMinHyeok.devKangMinHyeok)
