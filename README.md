@@ -25,13 +25,27 @@
 
 ## 💻 Personal Project
 
-### npm
-
-[use-upbit-api](https://www.npmjs.com/package/use-upbit-api) 
+## npm package deployment
+### use-upbit-api
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 ![download](https://img.shields.io/npm/dt/use-upbit-api?style=plastic)
-![TOTALEXAMPLE](https://user-images.githubusercontent.com/44657722/183570075-cb54905c-a57c-44a6-96c3-3d66dccef054.gif)
+![stars](https://img.shields.io/github/stars/devKangMinHyeok/use-upbit-api?style=social)
 
+[**npm Link**](https://www.npmjs.com/package/use-upbit-api)  |  [**github Link**](https://github.com/devKangMinHyeok/use-upbit-api)
+
+```
+npm install --save use-upbit-api
+```
+
+
+
+[**example code**](https://github.com/devKangMinHyeok/React-Upbit-API-Example)  |  [**demo website**](https://devkangminhyeok.github.io/React-Upbit-API-Example/total-example)
+![TOTALEXAMPLE](https://user-images.githubusercontent.com/44657722/183570075-cb54905c-a57c-44a6-96c3-3d66dccef054.gif)
+![stars](https://img.shields.io/github/stars/devKangMinHyeok/React-Upbit-API-Example?style=social)
 
 
 ## Github Info
