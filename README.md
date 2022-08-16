@@ -35,7 +35,7 @@
 ![download](https://img.shields.io/npm/dt/use-upbit-api?style=plastic)
 ![stars](https://img.shields.io/github/stars/devKangMinHyeok/use-upbit-api?style=social)
 
-[**npm Link**](https://www.npmjs.com/package/use-upbit-api)  |  [**github Link**](https://github.com/devKangMinHyeok/use-upbit-api)
+[**npm &rarr;**](https://www.npmjs.com/package/use-upbit-api)  |  [**github Repository &rarr;**](https://github.com/devKangMinHyeok/use-upbit-api)
 
 ```
 npm install --save use-upbit-api
@@ -43,7 +43,7 @@ npm install --save use-upbit-api
 
 
 
-[**example code**](https://github.com/devKangMinHyeok/React-Upbit-API-Example)  |  [**demo website**](https://devkangminhyeok.github.io/React-Upbit-API-Example/total-example)
+[**example code git &rarr;**](https://github.com/devKangMinHyeok/React-Upbit-API-Example)  |  [**demo website 바로가기 &rarr;**](https://devkangminhyeok.github.io/React-Upbit-API-Example/total-example)
 ![TOTALEXAMPLE](https://user-images.githubusercontent.com/44657722/183570075-cb54905c-a57c-44a6-96c3-3d66dccef054.gif)
 ![stars](https://img.shields.io/github/stars/devKangMinHyeok/React-Upbit-API-Example?style=social)
 
