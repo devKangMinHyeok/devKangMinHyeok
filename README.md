@@ -20,6 +20,9 @@
 
 **GitHub.** [https://github.com/rkdalsgur032](https://github.com/rkdalsgur032)
 
+**Resume.** [https://www.notion.so/minhyeok](https://www.notion.so/421ae7b017c747c5b4d15945639635b0)
+
+
 ## 📞 Contact
 **Email.** rkdalsgur032@unist.ac.kr 
 
