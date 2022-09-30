@@ -58,7 +58,7 @@ npm install --save use-upbit-api
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
 
-[**play demo here(come with your smartphone) &rarr;**](https://www.npmjs.com/package/use-upbit-api)
+[**play demo here(come with your smartphone) &rarr;**](https://devkangminhyeok.github.io/trading-game-app/)
 
 ![trading-game-app-demo](https://user-images.githubusercontent.com/44657722/193216690-480d45f7-7752-43d2-b7b4-baa9efa92f0e.gif)
 
