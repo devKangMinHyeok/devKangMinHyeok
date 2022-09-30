@@ -60,7 +60,8 @@ npm install --save use-upbit-api
 
 [**play demo here(come with your smartphone) &rarr;**](https://devkangminhyeok.github.io/trading-game-app/)
 
-![trading-game-app-demo](https://user-images.githubusercontent.com/44657722/193254920-16e0962d-9e4a-44d8-b97d-69158c1f9524.gif)
+![trading-game-demo4](https://user-images.githubusercontent.com/44657722/193257790-a6f84e85-ff98-44b4-8990-7abe61a787d7.gif)
+
 
 
 
