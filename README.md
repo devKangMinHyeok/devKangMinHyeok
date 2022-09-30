@@ -50,6 +50,19 @@ npm install --save use-upbit-api
 ![TOTALEXAMPLE](https://user-images.githubusercontent.com/44657722/183570075-cb54905c-a57c-44a6-96c3-3d66dccef054.gif)
 ![stars](https://img.shields.io/github/stars/devKangMinHyeok/React-Upbit-API-Example?style=social)
 
+## App service
+### trading game (in progress)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
+
+[**play demo here(come with your smartphone) &rarr;**](https://www.npmjs.com/package/use-upbit-api)
+
+![trading-game-app-demo](https://user-images.githubusercontent.com/44657722/193216690-480d45f7-7752-43d2-b7b4-baa9efa92f0e.gif)
+
+
 
 ## Github Info
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=devKangMinHyeok.devKangMinHyeok)
