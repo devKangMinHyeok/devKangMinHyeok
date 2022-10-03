@@ -8,6 +8,7 @@
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React-native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -56,7 +57,7 @@ npm install --save use-upbit-api
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
+![React-native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
 
 [**play demo here(come with your smartphone) &rarr;**](https://devkangminhyeok.github.io/trading-game-app/)
 
