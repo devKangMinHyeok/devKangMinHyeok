@@ -65,7 +65,7 @@ npm install --save use-upbit-api
 
 ![trading-game-demo4](https://user-images.githubusercontent.com/44657722/193257790-a6f84e85-ff98-44b4-8990-7abe61a787d7.gif)
 
-
+[**blog review &rarr;**](https://brunch.co.kr/@rkdalsgur032/41)
 
 
 ## Github Info
