@@ -19,7 +19,7 @@
 
 **Dev Blog.** [https://velog.io/@kangdev](https://velog.io/@kangdev)
 
-**GitHub.** [https://github.com/rkdalsgur032](https://github.com/rkdalsgur032)
+**GitHub.** [https://github.com/devKangMinHyeok](https://github.com/devKangMinHyeok)
 
 **Resume.** [https://www.notion.so/minhyeok](https://www.notion.so/421ae7b017c747c5b4d15945639635b0)
 
