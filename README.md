@@ -51,6 +51,8 @@ npm install --save use-upbit-api
 ![TOTALEXAMPLE](https://user-images.githubusercontent.com/44657722/183570075-cb54905c-a57c-44a6-96c3-3d66dccef054.gif)
 ![stars](https://img.shields.io/github/stars/devKangMinHyeok/React-Upbit-API-Example?style=social)
 
+[**blog review &rarr;**](https://brunch.co.kr/@rkdalsgur032/40)
+
 ## App service
 ### trading game (in progress)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
