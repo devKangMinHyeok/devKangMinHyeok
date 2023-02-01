@@ -21,7 +21,7 @@
 
 **GitHub.** [https://github.com/devKangMinHyeok](https://github.com/devKangMinHyeok)
 
-**Resume.** [https://www.notion.so/minhyeok](https://www.notion.so/421ae7b017c747c5b4d15945639635b0)
+**Resume.** [https://www.notion.so/minhyeok](https://woozy-ruby-f3a.notion.site/2023-7a09ec70c481433481fb1c3e5ffcd469)
 
 
 ## 📞 Contact
