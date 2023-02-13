@@ -53,6 +53,24 @@ npm install --save use-upbit-api
 
 [**blog review &rarr;**](https://brunch.co.kr/@rkdalsgur032/40)
 
+### mips-simulator-js
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=Jest&logoColor=white)
+![jest](https://img.shields.io/badge/GitHub_Actions-black?style=flat-square&logo=github-actions&logoColor=white)
+
+![download](https://img.shields.io/npm/dt/mips-simulator-js?style=plastic)
+![stars](https://img.shields.io/github/stars/mipsSimulatorUNIST/simulator?style=social)
+
+[**npm &rarr;**](https://www.npmjs.com/package/mips-simulator-js)  |  [**github Repository &rarr;**](https://github.com/mipsSimulatorUNIST/simulator)
+
+```
+npm install --save mips-simulator-js
+```
+
+[**blog review &rarr;**](https://brunch.co.kr/@rkdalsgur032/46)
+
 ## App service
 ### trading game (in progress)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
