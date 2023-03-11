@@ -69,6 +69,12 @@ npm install --save use-upbit-api
 npm install --save mips-simulator-js
 ```
 
+[**demo simulator&rarr;**](https://mipssimulatorunist.github.io/reactGUI/)
+
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/44657722/224466039-b06823a0-d8cd-4e3e-aa2b-4b9fb8602e51.gif)
+
+
+
 [**blog review &rarr;**](https://brunch.co.kr/@rkdalsgur032/46)
 
 ## App service
