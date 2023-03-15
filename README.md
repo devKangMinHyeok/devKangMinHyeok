@@ -27,7 +27,7 @@
 ## 📞 Contact
 **Email.** rkdalsgur032@unist.ac.kr 
 
-## 💻 Personal Project
+## 💻 Project
 
 ## npm package deployment
 ### use-upbit-api
