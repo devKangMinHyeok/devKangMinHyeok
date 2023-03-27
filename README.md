@@ -13,6 +13,8 @@
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=Jest&logoColor=white)
+![github_actions](https://img.shields.io/badge/GitHub_Actions-black?style=flat-square&logo=github-actions&logoColor=white)
 
 ## 📝 Channel
 **Brunch.** [https://brunch.co.kr/@rkdalsgur032](https://brunch.co.kr/@rkdalsgur032)
@@ -58,7 +60,7 @@ npm install --save use-upbit-api
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=Jest&logoColor=white)
-![jest](https://img.shields.io/badge/GitHub_Actions-black?style=flat-square&logo=github-actions&logoColor=white)
+![github_actions](https://img.shields.io/badge/GitHub_Actions-black?style=flat-square&logo=github-actions&logoColor=white)
 
 ![download](https://img.shields.io/npm/dt/mips-simulator-js?style=plastic)
 ![stars](https://img.shields.io/github/stars/mipsSimulatorUNIST/simulator?style=social)
