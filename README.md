@@ -4,6 +4,7 @@
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React-native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
+![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
