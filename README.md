@@ -1,5 +1,5 @@
 ## 📝 Channel
-**Brunch.** [https://brunch.co.kr/@rkdalsgur032](https://brunch.co.kr/@rkdalsgur032)
+**Blog.** [https://minhyeok-blog.vercel.app/blog](https://minhyeok-blog.vercel.app/blog)
 
 **GitHub.** [https://github.com/devKangMinHyeok](https://github.com/devKangMinHyeok)
 
